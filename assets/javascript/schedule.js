@@ -64,7 +64,7 @@ setInterval(() => {
         var timeRemaining = difference % frequency;
         var minutesAway = frequency - timeRemaining;
         var nextArrival = moment().add(minutesAway, "minutes");
-        nextArrival = moment(nextArrival).format("hh:mm a");
+        nextArrival = moment(nextArrival).format("hh:mm A");
 
 
         // Console logs to make sure data entered is accurate
