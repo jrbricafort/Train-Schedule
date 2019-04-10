@@ -1,6 +1,6 @@
 # Train-Schedule
 
-The goal of this assignment is to test how well we can use Firebase, moment.js.
+The goal of this assignment is to test how well we can use Firebase and moment.js and to display the information we collect on a continuously updating table in real time.
 
 Technologies used included: HTML, CSS, JavaScript, jQuery, moment.js, Firebase
 
